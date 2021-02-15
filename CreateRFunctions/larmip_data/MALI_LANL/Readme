@@ -1,0 +1,7 @@
+This archive contains the results of LARMIP run by MALI (Mpas-Albany Land Ice model) using a spatially variable (2-20km) mesh, inluding:
+1) 6 text files of 200 yr sea-level rise contribution from 5 sub-regions (defined by LARMIP) and 1 ctrl run. The unit is m.
+2) 1 figures (larmip_lanl_mali.png) plotting 6 curves for these 6 text files
+
+A description of MALI can be found at https://www.geosci-model-dev-discuss.net/gmd-2018-78/. The code is available at https://github.com/MPAS-Dev/MPAS-Model
+
+The results are run by Tong Zhang on Auguest 4th, 2018, with the help of Matthew Hoffman, Stephen Price and Mauro Perego 
